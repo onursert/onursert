@@ -1,9 +1,5 @@
 # Hi there 👋
 
-## Stats
-
-![Onur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onursert&show_icons=true)
-
 ## Know / Using
 
 <div style="white-space:nowrap;">
