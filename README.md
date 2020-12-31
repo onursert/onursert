@@ -4,7 +4,7 @@
 
 ![Onur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onursert&show_icons=true&include_all_commits=true)
 
-![Onur's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onursert&hide=tsql,angelscript,actionscript&langs_count=20)
+![Onur's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onursert&hide=angelscript,actionscript&langs_count=20)
 
 <a href="https://www.kaggle.com/aonursert/notebooks">See my Kaggle notebooks for more of my Python works</a>
 
