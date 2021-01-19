@@ -11,8 +11,8 @@
 ## 🔭 I’m currently using
 
 <div style="white-space:nowrap;">
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2017/04/power-bi_logo.png" height="32" />
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/Qliksense-logo.png" height="32" />
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" height="32" />
+  <img src="https://cdn.worldvectorlogo.com/logos/qlik-sense.svg" height="32" />
   <img src="https://github.com/github/explore/blob/master/topics/sql/sql.png" height="32" />
   <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" height="32" />
   <img src="https://www.informatica.com/content/dam/informatica-com/en/images/gl01/informatica-logo.png" height="32" />
