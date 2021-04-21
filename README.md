@@ -5,7 +5,7 @@
 ![Onur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onursert&show_icons=true&include_all_commits=true)
 
 ![Onur's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onursert&hide=angelscript,actionscript&langs_count=20)
-
+<!--
 <a href="https://www.kaggle.com/aonursert/notebooks">See my Kaggle notebooks for more of my Python works</a>
 
 ## 🔭 I’m currently using
@@ -45,7 +45,7 @@
 </div>
 
 ## 📫 How to reach me:
-
+-->
 [![Mail Badge](https://img.shields.io/badge/OnurSert-personal%20email-red?style=for-the-badge&logo=gmail)](mailto:hello@onursert.org)
 
 [![Linkedin Badge](https://img.shields.io/badge/OnurSert-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aonursert/)
