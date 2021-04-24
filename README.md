@@ -1,51 +1,54 @@
 # Hi there 👋
 
-## Stats
+## 🏆 GitHub Trophies
 
-![Onur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onursert&show_icons=true&include_all_commits=true)
+<div>
+  <img height="190" src="https://github-profile-trophy.vercel.app/?username=onursert&theme=nord&column=7" />
+</div>
 
-![Onur's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onursert&hide=angelscript,actionscript&langs_count=20)
-<!--
-<a href="https://www.kaggle.com/aonursert/notebooks">See my Kaggle notebooks for more of my Python works</a>
+## ⚡ GitHub Stats / Top Langs
+
+<div>
+  <img height="190" align="left"  src="https://github-readme-stats.vercel.app/api?username=onursert&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onursert&hide=angelscript,actionscript&langs_count=10&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact" />
+</div>
 
 ## 🔭 I’m currently using
 
-<div style="white-space:nowrap;">
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" height="32" />
-  <img src="https://cdn.worldvectorlogo.com/logos/qlik-sense.svg" height="32" />
-  <img src="https://github.com/github/explore/blob/master/topics/sql/sql.png" height="32" />
-  <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" height="32" />
-  <img src="https://www.informatica.com/content/dam/informatica-com/en/images/gl01/informatica-logo.png" height="32" />
-  <img src="https://github.com/github/explore/blob/master/topics/react-native/react-native.png" height="32" />
-  <img src="https://github.com/github/explore/blob/master/topics/android/android.png" height="32" />
-  <img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png" height="32" />
-</div>
+![Power BI](https://img.shields.io/badge/-Power_BI-black?style=flat-square&logo=power-bi)
+![Qlik](https://img.shields.io/badge/-Qlik-black?style=flat-square&logo=qlik)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
+![Informatica](https://img.shields.io/badge/-Informatica-black?style=flat-square&logo=informatica)
+![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=android-studio)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code)
 
 ## 😄 I know
 
-<div style="white-space:nowrap;">
-  <img src="https://www.python.org/static/img/python-logo.png" height="32" />
-  <img src="https://github.com/github/explore/blob/master/topics/java/java.png" height="32" />
-  <img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png" height="32" />
-  <img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png" height="32" />
-  <img src="https://www.php.net//images/logos/new-php-logo.svg" height="32" />
-  <img src="https://github.com/github/explore/blob/master/topics/c/c.png" height="32" />
-  <img src="https://github.com/github/explore/blob/master/topics/html/html.png" height="32" />
-  <img src="https://github.com/github/explore/blob/master/topics/css/css.png" height="32" />
-  <img src="https://numpy.org/images/logos/numpy.svg" height="32" />
-  <img src="https://pandas.pydata.org/static/img/pandas.svg" height="32" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="32" />
-  <img src="https://github.com/github/explore/blob/master/topics/scikit-learn/scikit-learn.png" height="32" />
-  <img src="https://github.com/github/explore/blob/master/topics/tensorflow/tensorflow.png" height="32" />
-  <img src="https://labs.mysql.com/common/logos/mysql-logo.svg" height="32" />
-  <img src="https://github.com/github/explore/blob/master/topics/react/react.png" height="32" />
-  <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" height="32" />
-  <img src="https://hibernate.org/images/hibernate-logo.svg" height="32" />
-  <img src="https://github.com/github/explore/blob/master/topics/git/git.png" height="32" />
-</div>
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C#](https://img.shields.io/badge/-C_Sharp-black?style=flat-square&logo=c-sharp)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
+![seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)
+![sci-kit learn](https://img.shields.io/badge/-sci--kit_learn-black?style=flat-square&logo=scikit-learn)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate)
+
 
 ## 📫 How to reach me:
--->
+
 [![Mail Badge](https://img.shields.io/badge/OnurSert-personal%20email-red?style=for-the-badge&logo=gmail)](mailto:hello@onursert.org)
 
 [![Linkedin Badge](https://img.shields.io/badge/OnurSert-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aonursert/)
