@@ -22,6 +22,8 @@
 ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=android-studio)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code)
@@ -42,8 +44,6 @@
 ![sci-kit learn](https://img.shields.io/badge/-sci--kit_learn-black?style=flat-square&logo=scikit-learn)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate)
 
 
