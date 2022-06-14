@@ -38,7 +38,7 @@
 
 ## 📫 How to reach me:
 
-[![Mail Badge](https://img.shields.io/badge/OnurSert-personal%20email-red?style=for-the-badge&logo=gmail)](mailto:hello@onursert.org)
+[![Mail Badge](https://img.shields.io/badge/OnurSert-personal%20email-red?style=for-the-badge&logo=gmail)](mailto:hello@onursert.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/OnurSert-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aonursert/)
 
