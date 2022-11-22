@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Full-Stack Software Engineer with over 3 years of experience. Developing apps for web and mobile with TypeScript, React, Node.js, Nest.js, Java, Spring Boot, Go, Couchbase, PostgreSQL, and React Native.
+Full-Stack Software Engineer with over 3 years of experience. Developing apps for web and mobile by using TypeScript, React, Node.js, Nest.js, Java, Spring Boot, Go, Couchbase, PostgreSQL, and React Native.
 
 * 🖥️  See my portfolio at [onursert.com](http://onursert.com/)
 * ✉️  You can contact me at [hello@onursert.com](mailto:hello@onursert.com)
