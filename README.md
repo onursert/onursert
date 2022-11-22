@@ -6,7 +6,6 @@ Software Engineer
 
 Full-Stack Software Engineer with over 3 years of experience. Developing apps for web and mobile with TypeScript, React, Node.js, Nest.js, Java, Spring Boot, Go, Couchbase, PostgreSQL, and React Native.
 
-* 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [onursert.com](http://onursert.com/)
 * ✉️  You can contact me at [hello@onursert.com](mailto:hello@onursert.com)
 
