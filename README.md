@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Full-Stack Software Engineer with over 3 years of experience. Developing and contributing open source apps for web and mobile with Java, Spring Boot, JavaScript, React, React Native, Node.js, and Nest.js. Sharing my experiences by writing tech blogs.
+Full-Stack Software Engineer with over 5 years of experience. Developing and contributing open source apps for web and mobile with Java, Spring Boot, JavaScript, Typescript, React, React Native, Node.js, and Nest.js. Sharing my experiences by writing tech blogs.
 
 * 🖥️  See my portfolio at [onursert.com](http://onursert.com/)
 * ✉️  Contact me at [hello@onursert.com](mailto:hello@onursert.com)
